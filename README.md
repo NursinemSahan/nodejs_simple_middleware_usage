@@ -1,1 +1,1 @@
-# nodejs_udemy_practices
+# This is a simple static nodejs project exploring middlewares.
